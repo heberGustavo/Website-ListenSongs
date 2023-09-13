@@ -1,7 +1,5 @@
 # Demonstração do Website
 
-Este projeto foi desenvolvido para que o usuário posso ouvir musica durante a navegação no website.
-
 URL: https://hebergustavo.github.io/Website-ListenSongs/
 
-![Website-com-Musica](https://user-images.githubusercontent.com/44476616/103385512-90a4a500-4ad9-11eb-8ad8-f301e678806d.gif)
+![image](https://github.com/heberGustavo/Website-ListenSongs/assets/44476616/03fbab6a-8638-435b-a150-73f7fe35e880)
